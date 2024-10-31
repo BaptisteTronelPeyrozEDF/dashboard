@@ -1,0 +1,84 @@
+header{
+    display: flex;
+    margin: auto;
+    padding: 10px;
+}
+body { 
+    margin: 0; 
+    padding: 0; 
+    font-family: "Segoe UI", Roboto, Arial;
+    margin-bottom: 100px;
+}
+.recherche {
+    display: flex;  
+}
+.recherche input {
+    padding: 10px; 
+    margin-bottom: 10px; 
+    font-size: 14px;
+    margin-left: 20px;
+    width: 175px; 
+    height: 5px;
+}
+.buttons {
+    margin-left: 20px;
+    display: flex;
+}
+.buttons button {
+    border-radius: 0px;
+    font-size: 14px; 
+    cursor: pointer;
+    width: 110px; 
+    height: 30px;
+    margin-top: 20px;
+}
+.logo{
+    height: auto;
+    width: 475px;
+}
+.logo img {
+    width: 475px;
+}
+.labs {
+    display: flex;
+}
+.labs label {
+    margin-left: 30px;
+}
+.buttons .filter {
+    background-color: #54669F;
+    color: white;
+}
+.meteo {
+    margin-right: 25px;
+    margin-left: 15px;
+}
+.footer-bar {
+    margin: 50px; 
+    height: 10px; 
+    background-color: #3b018c;
+}
+.main {
+    background-image: url("photos/fond_dash.png");
+    width: 1200px;
+    height: 359px;
+    background-size: calc(100% - 40px) calc(100% - 40px); 
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 20px; 
+    box-sizing: border-box; 
+    margin: auto;
+    font-size: 12px;
+}
+.timeline {
+    margin: auto;
+    background-image: url("photos/timer.png");
+    width: 1000px;
+    height: 200px;
+    background-size: calc(100% - 40px) calc(100% - 40px); 
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 20px; 
+    box-sizing: border-box; 
+    font-size: 12px;
+}

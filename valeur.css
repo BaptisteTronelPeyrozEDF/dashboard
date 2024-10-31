@@ -1,0 +1,74 @@
+.requete { position: relative; width: 1200px; height: 359px; }
+.requete p { position: absolute; margin: 0; }
+.requete img { position: absolute; margin: 0; width: 35px; height: 35px;}
+.un { top: 90px; left: 142px; }
+.deux { top: 124px; left: 142px; color: white;}
+.trois { top: 155px; left: 142px; }
+.quatre { top: 186px; left: 142px; }
+.cinq { top: 172px; left: 213px; }
+.six { top: 103px; left: 213px; }
+.sept { top: 133px; left: 270px; }
+.huit { top: 19px; left: 255px; }
+.neuf { top: 172px; left: 360px; }
+.dix { top: 111px; left: 448px; }
+.onze { top: 155px; left: 448px; color: white;}
+.douze { top: 190px; left: 448px; color: white;}
+.treize { top: 129px; left: 567px; }
+.quatorze { top: 199px; left: 567px; }
+.quinze { top: 262px; left: 585px; }
+.seize { top: 64px; left: 715px; }
+.dixsept { top: 127px; left: 715px; }
+.dixhuit { top: 199px; left: 715px; }
+.dixneuf { top: 262px; left: 715px; }
+.vingt { top: 192px; left: 827px; }
+.vingtun { top: 192px; left: 940px; }
+.vingtdeux { top: 190px; left: 1020px; }
+.vingttrois { top: 243px; left: 995px; }
+.vingtquatre { top: 287px; left: 1020px; }
+.vingtcinq { top: 19px; left: 1020px; }
+.vingtsix { top: 83px; left: 1020px; }
+.vingtsept { top: 20px; left: 925px; }
+.vingthuit { top: 82px; left: 917px; }
+.vingneuf { top: 62px; left: 180px; }
+.trente { top: 233px; left: 235px; }
+.trenteun { top: 222px; left: 912px; }
+.SIMM { top: 260px; left: 336px; }
+.NEWREC { top: 260px; left: 377px; }
+.PSC { top: 260px; left: 417px; }
+.SMTP { top: 260px; left: 457px; }
+.SMS { top: 260px; left: 500px; }
+.req { position: relative; width: 1000px; height: 200px; }
+.req p { position: absolute; margin: 0; }
+.t1 { top: 36px; left: 10px;}
+.t2 { top: 36px; left: 60px;}
+.t3 { top: 37px; left: 254px;}
+.t4 { top: 37px; left: 304px;}
+.t5 { top: 37px; left: 534px;}
+.t6 { top: 37px; left: 584px;}
+.t7 { top: 37px; left: 825px;}
+.t8 { top: 37px; left: 875px;}
+.t9 { top: 115px; left: 46px; background-color: white;}
+.t10 { top: 115px; left: 151px; background-color: white;}
+.t11 { top: 115px; left: 277px; background-color: white;}
+.t12 { top: 115px; left: 423px; background-color: white;}
+.t13 { top: 115px; left: 558px; background-color: white;}
+.t14 { top: 115px; left: 703px; background-color: white;}
+.t15 { top: 115px; left: 845px; background-color: white;}
+
+.arrow1 {position: absolute;top: 135px;left: 617px;width: 73px;height: 6px; background-color: black;}
+
+.arrow1::before {content: '';position: absolute;right: 0;
+    top: -3px;left: 73px;border-top: 6px solid transparent;
+    border-bottom: 6px solid transparent;border-left: 8px solid black;
+}
+.arrow2 {position: absolute;top: 205px;left: 617px;width: 73px;height: 6px;background-color: black;}
+
+.arrow2::before {content: '';position: absolute;right: 0;
+    top: -3px;left: 73px;border-top: 6px solid transparent;
+    border-bottom: 6px solid transparent;border-left: 8px solid black;
+}
+.arrow3 { position: absolute; top: 268px; left: 635px; width: 51px; height: 6px; background-color: black;}
+
+.arrow3::before {content: '';position: absolute;right: 0;
+    top: -3px;left: 51px;border-top: 6px solid transparent;
+    border-bottom: 6px solid transparent;border-left: 8px solid black;}
